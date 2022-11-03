@@ -2,11 +2,13 @@
 body
 {
     background: rgba(0, 0, 0, 0.425);
+    font-size: 1rem;
+   
 }
 
 .contour
 {
-    width: 60%;
+    width: 70%;
     margin: 5% 25%;
 }
 
@@ -14,6 +16,8 @@ table
 {
     width: 50%;
     height: 70vh;
+    border: solid 2px black;
+   
 }
 
 td button
@@ -25,6 +29,7 @@ td button
 button
 {
     height: 50px;
+    font-weight: bold;
 
 }
 
