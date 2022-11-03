@@ -41,22 +41,37 @@ input
 
 @media all and (max-width: 900px)
 {
-    .contour
-    {
-        width: 100%;
-        margin:  0%;
-    }
-
-    table
-    {
-        width: 50%;
-        height: 40vh;
-        border: solid 2px black;
-       
-    }
-    td button
-    {
-        margin: 0%;
         
-    }
+
+        .contour
+        {
+            width: 100%;
+            margin:0%;
+        }
+
+        table
+        {
+            width: 50%;
+            height: 70vh;
+            border: solid 2px black;
+        
+        }
+
+        td button
+        {
+            width:100%
+            
+        }
+
+        button
+        {
+            height: 30px;
+
+        }
+
+        input
+        {
+            height: 30px;
+            width: 80%;
+        }
 }
