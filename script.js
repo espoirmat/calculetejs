@@ -6,8 +6,14 @@
              document.getElementById("output").value = b 
          } 
 
-                  //fonction qui affiche la valeur
-                  function afficher(val) 
-                  { 
-                      document.getElementById("output").value+=val 
-                  } 
+        //fonction qui affiche la valeur
+        function afficher(val) 
+            { 
+                document.getElementById("output").value+=val 
+            } 
+
+         //fonction qui affiche la valeur
+         function afficher(val) 
+         { 
+             document.getElementById("output").value+=val 
+         }         
