@@ -43,15 +43,16 @@ input
 {
         
 
-        .contour
-        {
+    
             width: 100%;
             margin:0%;
-        }
+        
 
         table
         {
-            width: 50%;
+            
+            width: 100%;
+            margin:0%;
             height: 50vh;
             border: solid 1px black;
         
