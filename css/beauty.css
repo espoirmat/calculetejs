@@ -2,3 +2,8 @@ table
 {
     border: 1;
 }
+
+td button
+{
+    width:100%
+}
