@@ -39,3 +39,24 @@ input
     width: 80%;
 }
 
+@media all and (max-width: 900px)
+{
+    .contour
+    {
+        width: 100%;
+        margin: auto 8%;
+    }
+
+    table
+    {
+        width: 50%;
+        height: 40vh;
+        border: solid 2px black;
+       
+    }
+    td button
+    {
+        margin: 0%;
+        
+    }
+}
