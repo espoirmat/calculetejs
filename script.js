@@ -12,8 +12,8 @@
                 document.getElementById("output").value+=val 
             } 
 
-         //fonction qui affiche la valeur
-         function afficher(val) 
+         //fonction qui efface l'écran 
+         function effacer() 
          { 
-             document.getElementById("output").value+=val 
-         }         
+             document.getElementById("output").value = "" 
+         }      
