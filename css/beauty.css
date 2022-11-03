@@ -1,9 +1,36 @@
+
+body
+{
+    background: rgba(0, 0, 0, 0.425);
+}
+
+.contour
+{
+    width: 60%;
+    margin: 5% 25%;
+}
+
 table
 {
-    border: 1;
+    width: 50%;
+    height: 70vh;
 }
 
 td button
 {
-    width:100%
+    width:80%
+    
 }
+
+button
+{
+    height: 50px;
+
+}
+
+input
+{
+    height: 30px;
+    width: 80%;
+}
+
